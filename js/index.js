@@ -1,7 +1,7 @@
 images = [];
 var Language = $MasterLanguage[readCookie("Language") || "vi"];
 var config = {
-  apiHost : 'http://localhost:64523/'
+  apiHost : 'http://app.twin.vn:8181/PMH2018API/'
 }
 var header = new Vue({
   el : "#wrapper",

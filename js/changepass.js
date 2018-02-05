@@ -24,7 +24,7 @@ var header = new Vue({
         NewPass : newPass
       }
     }
-  },mouted : function(){
+  },mounted : function(){
     this.UserName =  checkLogined(true).data.UserName;
   }
 });
