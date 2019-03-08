@@ -1,0 +1,8 @@
+div.cheaterStyle {
+    background-color: red;
+    position: fixed;
+    width: 100px;
+    height: 200px;
+    top: 0;
+    left: 0;
+}
